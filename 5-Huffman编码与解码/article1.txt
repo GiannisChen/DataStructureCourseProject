@@ -1,0 +1,3 @@
+This is the text tested for Huffman Code and Decode.
+So let's do it! 1234567890
+0987654321
